@@ -1,4 +1,6 @@
 # CAPTURE: A Clustered Adaptive Patchwork Technique for Unified Registration Enhancement in Biological Imaging
+
+![Diagram](Diagram.png)
  
 This repository contains the implementation of our image registration method, as described in our paper titled "CAPTURE: A Clustered Adaptive Patchwork Technique for Unified Registration Enhancement in Biological Imaging." Our method addresses one of the issues in image registration for biological datasets, which is "Distortion."
 
